@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class comparing_strings{
+public class Comparing_Strings{
  
 	static void exec(String a, String b, ArrayList<Integer> list, int l1){
 		int x=list.get(0);
