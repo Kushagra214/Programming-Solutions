@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class shortestPath{
+public class shortestPathBFS{
 
 	public static void addEdge(ArrayList<ArrayList<Integer>> adj,int v, int u){
 		adj.get(u).add(v);
